@@ -71,6 +71,7 @@ body {
 }
 .nav__link:hover {
     color: white;
+    font-size: 32px;
 }
 .nav-close {
     background-image: url('../images/ico-close.svg');
@@ -132,6 +133,9 @@ body {
     }
     .show {
         font-size: 45px;
+    }
+    .nav__link:hover {
+        font-size: 47px;
     }
 
 }
